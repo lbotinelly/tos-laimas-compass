@@ -44,7 +44,7 @@
     "electron-prebuilt": "^0.37.7",
     "express": "^4.13.4",
     "font-awesome": "^4.6.1",
-    "jquery": "^2.2.3",
+    "jquery": "^3.0.0",
     "md5": "^2.1.0",
     "openlayers": "^3.16.0",
     "regedit": "^2.2.6",
